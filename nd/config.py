@@ -1,0 +1,4 @@
+RATING_NUM  =   100000
+USER_NUM    =   943
+MOVIE_NUM   =   1682
+TRAIN_RATE  =   0.8
